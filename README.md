@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vatsal-patel-vkp
-- 👀 I’m interested in tech| business analyst
-- 🌱 I’m currently learning Data Analytics for Business
-- 💞️ I’m looking to collaborate on tech enthusiastic, business analyst, data analyst, and entrepreneurs
-- 📫 How to reach me through email vatsalpatel3313@gmail.com
+- 👀 I am a Data Analyst | Business Analyst
+- 💞️ I connect with people that are tech & Data enthusiastic, Business Analyst, Data Analyst, and Entrepreneurs
+- 📫 How to reach me through email vatsal.patel.vkp@gmail.com
+- I help people in connecting their business to technology and generate insights from their Business data to boost their Business performance.
 
 <!---
 vatsal-patel-vkp/vatsal-patel-vkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
